@@ -1,0 +1,2 @@
+# JankenApp
+Swift, SwiftUIでじゃんけんアプリ
